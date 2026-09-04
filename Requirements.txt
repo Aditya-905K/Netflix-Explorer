@@ -1,0 +1,5 @@
+1. Jupyter Notebook environment (Google Colab)
+2. Numpy
+3. Pandas
+4. Matplotlib
+5. Seaborn
